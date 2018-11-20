@@ -10,4 +10,4 @@ RSS Link:
 
 ## Download the archive
 
-For offline use, you can download the archive [here]().
+For offline use, you can download the archive [here](https://github.com/digital-rights/rss/archive/master.zip).
