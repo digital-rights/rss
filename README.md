@@ -6,7 +6,7 @@ Here you will find an archive of all news and updates about the github pages sit
 
 RSS Link:
 
->
+> https://github.com/digital-rights/rss/releases.atom
 
 ## Download the archive
 
